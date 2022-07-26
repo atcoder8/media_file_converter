@@ -1,0 +1,354 @@
+{
+    "2017": {
+        "original_folder_pathname": "../original/騒音のない世界/2017",
+        "converted_folder_pathname": "../converted/騒音のない世界/2017",
+        "album_art_file_pathname": "../original/騒音のない世界/2017/artworks-000594738486-2p51ui-t500x500.jpg",
+        "common_metadata": {
+            "album": "2017",
+            "album_artist": "騒音のない世界",
+            "artist": "騒音のない世界",
+            "genre": "Instrumental",
+            "year": "2017"
+        },
+        "unique_metadata": {
+            "penguin.wav": {
+                "title": "ジェットペンギン",
+                "track": "1/12"
+            },
+            "neverend.wav": {
+                "title": "終わりのない物語",
+                "track": "2/12"
+            },
+            "naked.wav": {
+                "title": "裸の王様",
+                "track": "3/12"
+            },
+            "spring.wav": {
+                "title": "春らんらん",
+                "track": "4/12"
+            },
+            "hanabi.wav": {
+                "title": "花火",
+                "track": "5/12"
+            },
+            "moon.wav": {
+                "title": "月がきれい",
+                "track": "6/12"
+            },
+            "hero.wav": {
+                "title": "僕のヒーロー",
+                "track": "7/12"
+            },
+            "ghost.wav": {
+                "title": "亡霊の女の子",
+                "track": "8/12"
+            },
+            "sabaku.wav": {
+                "title": "砂漠に雨",
+                "track": "9/12"
+            },
+            "morning.wav": {
+                "title": "グッドモーニング",
+                "track": "10/12"
+            },
+            "tomei.wav": {
+                "title": "透明な日々",
+                "track": "11/12"
+            },
+            "shichihenge.wav": {
+                "title": "シチヘンゲ",
+                "track": "12/12"
+            }
+        }
+    },
+    "2018": {
+        "original_folder_pathname": "../original/騒音のない世界/2018",
+        "converted_folder_pathname": "../converted/騒音のない世界/2018",
+        "album_art_file_pathname": "../original/騒音のない世界/2018/artworks-000594738963-l02h7n-t500x500.jpg",
+        "common_metadata": {
+            "album": "2018",
+            "album_artist": "騒音のない世界",
+            "artist": "騒音のない世界",
+            "genre": "Instrumental",
+            "year": "2018"
+        },
+        "unique_metadata": {
+            "daylight.wav": {
+                "title": "デイライト",
+                "track": "1/12"
+            },
+            "shinkirou.wav": {
+                "title": "蜃気楼",
+                "track": "2/12"
+            },
+            "wonderland.wav": {
+                "title": "それゆけワンダーランド",
+                "track": "3/12"
+            },
+            "wolf.wav": {
+                "title": "オオカミ少年",
+                "track": "4/12"
+            },
+            "toukaidou.wav": {
+                "title": "東海道をゆく",
+                "track": "5/12"
+            },
+            "raincoat.wav": {
+                "title": "長靴とレインコート",
+                "track": "6/12"
+            },
+            "mononoke.wav": {
+                "title": "そこのけ、モノノケ",
+                "track": "7/12"
+            },
+            "flare.wav": {
+                "title": "フレア",
+                "track": "8/12"
+            },
+            "boukyaku.wav": {
+                "title": "明くる日の忘却",
+                "track": "9/12"
+            },
+            "sora.wav": {
+                "title": "空を見上げれば",
+                "track": "10/12"
+            },
+            "shortfilm.wav": {
+                "title": "ショートフィルム",
+                "track": "11/12"
+            },
+            "sawagacy.wav": {
+                "title": "さわがしいまち",
+                "track": "12/12"
+            }
+        }
+    },
+    "2019": {
+        "original_folder_pathname": "../original/騒音のない世界/2019",
+        "converted_folder_pathname": "../converted/騒音のない世界/2019",
+        "album_art_file_pathname": "../original/騒音のない世界/2019/artworks-000594762303-25icta-t500x500.jpg",
+        "common_metadata": {
+            "album": "2019",
+            "album_artist": "騒音のない世界",
+            "artist": "騒音のない世界",
+            "genre": "Instrumental",
+            "year": "2019"
+        },
+        "unique_metadata": {
+            "penguin2nd.wav": {
+                "title": "ジェットペンギン２号",
+                "track": "1/12"
+            },
+            "winter.wav": {
+                "title": "冬の踊り子",
+                "track": "2/12"
+            },
+            "vivid.wav": {
+                "title": "日々を彩るもの",
+                "track": "3/12"
+            },
+            "prologue.wav": {
+                "title": "プロローグ",
+                "track": "4/12"
+            },
+            "heysay.wav": {
+                "title": "平成生まれ",
+                "track": "5/12"
+            },
+            "ame_to_neon.wav": {
+                "title": "雨とネオン",
+                "track": "6/12"
+            },
+            "amanojack.wav": {
+                "title": "天邪鬼の子",
+                "track": "7/12"
+            },
+            "natsu_no_mahou.wav": {
+                "title": "夏の魔法",
+                "track": "8/12"
+            },
+            "sunrise.wav": {
+                "title": "サンライズ",
+                "track": "9/12"
+            },
+            "denno.wav": {
+                "title": "電脳都市にて",
+                "track": "10/12"
+            },
+            "shizuka_no_umi.wav": {
+                "title": "静かの海へ",
+                "track": "11/12"
+            },
+            "ninja.wav": {
+                "title": "ニンニン忍者",
+                "track": "12/12"
+            }
+        }
+    },
+    "2020": {
+        "original_folder_pathname": "../original/騒音のない世界/2020",
+        "converted_folder_pathname": "../converted/騒音のない世界/2020",
+        "album_art_file_pathname": "../original/騒音のない世界/2020/artworks-000662847466-1cyd4t-t500x500.jpg",
+        "common_metadata": {
+            "album": "2020",
+            "album_artist": "騒音のない世界",
+            "artist": "騒音のない世界",
+            "genre": "Instrumental",
+            "year": "2020"
+        },
+        "unique_metadata": {
+            "keshiki.wav": {
+                "title": "新しい景色",
+                "track": "1/12"
+            },
+            "hitori.wav": {
+                "title": "ひとり",
+                "track": "2/12"
+            },
+            "runner.wav": {
+                "title": "ランナーズ・ハイ",
+                "track": "3/12"
+            },
+            "hikari.wav": {
+                "title": "光を待て",
+                "track": "4/12"
+            },
+            "sheep.wav": {
+                "title": "夢見るひつじ",
+                "track": "5/12"
+            },
+            "ameagari.wav": {
+                "title": "雨上がりのファンタジア",
+                "track": "6/12"
+            },
+            "overflow.wav": {
+                "title": "オーバーフロー",
+                "track": "7/12"
+            },
+            "meteor.wav": {
+                "title": "八月の流星群",
+                "track": "8/12"
+            },
+            "smoky.wav": {
+                "title": "スモーキー・タウン",
+                "track": "9/12"
+            },
+            "cannonball.wav": {
+                "title": "キャノンボール",
+                "track": "10/12"
+            },
+            "night.wav": {
+                "title": "ナイトパレード",
+                "track": "11/12"
+            },
+            "kemono.wav": {
+                "title": "彷徨う獣のように",
+                "track": "12/12"
+            }
+        }
+    },
+    "2021": {
+        "original_folder_pathname": "../original/騒音のない世界/2021",
+        "converted_folder_pathname": "../converted/騒音のない世界/2021",
+        "album_art_file_pathname": "../original/騒音のない世界/2021/artworks-Tuozo0brRQ87naxE-YC2YOQ-t500x500.jpg",
+        "common_metadata": {
+            "album": "2021",
+            "album_artist": "騒音のない世界",
+            "artist": "騒音のない世界",
+            "genre": "Instrumental",
+            "year": "2021"
+        },
+        "unique_metadata": {
+            "penguin3rd.wav": {
+                "title": "ジェットペンギン３号",
+                "track": "1/12"
+            },
+            "kaze_ga_naku.wav": {
+                "title": "風が鳴く",
+                "track": "2/12"
+            },
+            "jinsei.wav": {
+                "title": "人生、踊らにゃ",
+                "track": "3/12"
+            },
+            "gradient.wav": {
+                "title": "グラディエント",
+                "track": "4/12"
+            },
+            "yukemuri.wav": {
+                "title": "もくもく湯けむり",
+                "track": "5/12"
+            },
+            "harenohi.wav": {
+                "title": "晴れの日の私",
+                "track": "6/12"
+            },
+            "ashiato.wav": {
+                "title": "あしあと",
+                "track": "7/12"
+            },
+            "madoromi.wav": {
+                "title": "まどろみの色",
+                "track": "8/12"
+            },
+            "mayonaka.wav": {
+                "title": "真夜中のショータイム",
+                "track": "9/12"
+            },
+            "peaceman.wav": {
+                "title": "ピースメン",
+                "track": "10/12"
+            },
+            "endroll.wav": {
+                "title": "エンドロールの後に",
+                "track": "11/12"
+            },
+            "weekend.wav": {
+                "title": "きらめくウィークエンド",
+                "track": "12/12"
+            }
+        }
+    },
+    "2022": {
+        "original_folder_pathname": "../original/騒音のない世界/2022",
+        "converted_folder_pathname": "../converted/騒音のない世界/2022",
+        "album_art_file_pathname": "../original/騒音のない世界/2022/artworks-64R2U4LWlcIwwW2Y-89qyEA-t500x500.jpg",
+        "common_metadata": {
+            "album": "2022",
+            "album_artist": "騒音のない世界",
+            "artist": "騒音のない世界",
+            "genre": "Instrumental",
+            "year": "2022"
+        },
+        "unique_metadata": {
+            "bunmeikaika.wav": {
+                "title": "文明開化",
+                "track": "1/12"
+            },
+            "yukiguni.wav": {
+                "title": "雪国",
+                "track": "2/12"
+            },
+            "inutokirigirisu.wav": {
+                "title": "犬とキリギリス",
+                "track": "3/12"
+            },
+            "kakumei.wav": {
+                "title": "なんでも革命",
+                "track": "4/12"
+            },
+            "manyuki.wav": {
+                "title": "ぶらり漫遊記",
+                "track": "5/12"
+            },
+            "hamon.wav": {
+                "title": "波紋に揺れる",
+                "track": "6/12"
+            },
+            "bluestar.wav": {
+                "title": "ブルースター",
+                "track": "7/12"
+            }
+        }
+    }
+}
