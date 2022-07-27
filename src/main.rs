@@ -14,7 +14,7 @@ mod overwrite_select;
 mod path_info_for_conversion;
 
 /// Default filename containing data about the file to be converted.
-const CONVERT_DATA_PATHNAME: &'static str = "convert_data.json";
+const DEFAULT_CONVERT_DATA_PATHNAME: &'static str = "convert_data.json";
 
 /// Default converted extension
 const DEFAULT_CONVERTED_EXTENSION: &'static str = "flac";
@@ -23,7 +23,7 @@ const DEFAULT_CONVERTED_EXTENSION: &'static str = "flac";
 #[clap(author, version, about, long_about = None)]
 struct Args {
     /// A file name containing data about the file to be converted.
-    #[clap(default_value_t = String::from(CONVERT_DATA_PATHNAME))]
+    #[clap(default_value_t = String::from(DEFAULT_CONVERT_DATA_PATHNAME))]
     convert_data_file_pathname: String,
 
     /// Specifies whether to overwrite the file if it already exists.
